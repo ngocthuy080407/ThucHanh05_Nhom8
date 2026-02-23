@@ -19,13 +19,13 @@ Mục tiêu thực hành:
 
 ## Trích dẫn nguồn 
 1. **Nguồn cho NV 1.2:** Lấy từ [`.pdf `](https://github.com/ngocthuy080407/ThucHanh05_Nhom8/blob/main/NV%201.1.pdf)
-2. **Hình ảnh:** Lấy từ [Unsplash] - Giấy phép CC0
-3. **Video:** Lấy từ [Pexel] -  Giấy phép CC0
+2. **Hình ảnh:** Lấy từ Unsplash - Giấy phép CC0
+3. **Video:** Lấy từ Pexel -  Giấy phép CC0
 
 ---
 
 ## Giấy phép 
 Các sản phẩm này được cấp phép theo **Creative Commons Attribution 4.0 International (CC BY)**.
-[https://creativecommons.org/licenses/by/4.0/]
+https://creativecommons.org/licenses/by/4.0/
 ---
 
