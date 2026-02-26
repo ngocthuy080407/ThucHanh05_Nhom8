@@ -13,7 +13,7 @@ Mục tiêu thực hành:
 - **NV 1.1:** [`.pdf`](https://github.com/ngocthuy080407/ThucHanh05_Nhom8/blob/main/NV%201.1.pdf)
 - **NV 2.1:** [`.png`](https://github.com/ngocthuy080407/ThucHanh05_Nhom8/blob/main/NV%202.1.png)
 - **NV 2.2:** [`.mp4`](https://github.com/ngocthuy080407/ThucHanh05_Nhom8/blob/main/NV%202.2.mp4)
-- **NV 3.1:** [`.html`](https://github.com/ngocthuy080407/ThucHanh05_Nhom8/blob/main/NV%203.1/NV3.1.html), [`.png`](https://github.com/ngocthuy080407/ThucHanh05_Nhom8/blob/main/NV%203.1/infographic.png), [`.mp4 `](https://github.com/ngocthuy080407/ThucHanh05_Nhom8/blob/main/NV%203.1/video.mp4)
+- **NV 3.1:** [`.html`](https://github.com/ngocthuy080407/ThucHanh05_Nhom8/blob/main/NV%203.1.html)
 
 ---
 
